@@ -1,22 +1,23 @@
-# 👋 Welcome to A Product
+---
+cover: .gitbook/assets/ZGWbfS07GldyY_uQbKsuz6vrF_2XS1Ti.jpg
+coverY: -38
+---
+
+# Mahasiswa Membangun Desa
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+**MMD 1000D :** Program Mahasiswa Membangun Desa di 1000D atau bisa disingkat program MMD 1000D
 {% endhint %}
 
-## Overview
+## Sekilas Program Mahasiswa Membangun Desa
 
-Here are a couple of example overviews from products with really great docs:
+Mahasiswa Membangun Desa (MMD 1000D)
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+> Mahasiswa Membangun Desa Universitas Brawijaya dengan target 1000 desa di Jawa Timur selanjutnya disebut dengan MMD-1000D, UB. Program ini merupakan salah program yang didesign untuk meningkatkan keterlibatan perguruan tinggi melalui mahasiswa berperan aktif dalam kegiatan penguatan kapasitas sosial, ekonomi, dan lingkungan masyarakat.
 >
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
+> MMD-1000D diwajibkan diikuti oleh mahasiswa setelah menempuh semester-4 Program Sarjana/Diploma-4 (angkatan 2021) dan dapat diikuti oleh mahasiswa Angkatan 2019 dan 2020 yang belum mengambil Pengabdian Masyarakat atau yang setara. Rekognisi kegiatan ini adalah UBU-60005 MK Pengabdian Kepada Masyarakat (4 sks) di semester antara Genap ke Ganjil Tahun Akademik Bersangkutan.
 >
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
-
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+> Hadirnya program MMD-1000D diharapkan memberikan dampak positif signifikan pada pembangunan desa, tindak lanjut pada implementasi MBKM, pencapaian IKU, Partisipasi IKM untuk dosen-mahasiswa-dosen-stakeholder, THE Impact Rangking, Akreditasi Nasional dan Internasional, serta pengembangan Data Center, Universitas Brawijaya.
 
 ## Quick links
 
