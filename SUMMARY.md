@@ -1,9 +1,24 @@
 # Table of contents
 
-* [Halaman 1](README.md)
+* [👋 Welcome to A Product](README.md)
 
-## Kelola Akses Pengguna
+## Overview
 
-* [Unduh Aplikasi Smart Monev](kelola-akses-pengguna/unduh-aplikasi-smart-monev.md)
-* [Page 1](kelola-akses-pengguna/page-1.md)
-* [Page 2](kelola-akses-pengguna/page-2.md)
+* [💡 What we do](overview/what-we-do.md)
+* [✨ Our Features](overview/our-features.md)
+
+## Product Guides
+
+* [📪 Making a post](product-guides/making-a-post.md)
+* [📎 Understanding Projects](product-guides/understanding-projects.md)
+
+## Fundamentals
+
+* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
+  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+
+## Use Cases
+
+* [🎨 For Designers](use-cases/for-designers.md)
+* [🖥 For Developers](use-cases/for-developers.md)
